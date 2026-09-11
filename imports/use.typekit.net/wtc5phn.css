@@ -1,0 +1,42 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * quasimoda:
+ *   - http://typekit.com/eulas/00000000000000003b9b3475
+ *   - http://typekit.com/eulas/00000000000000003b9b3476
+ *   - http://typekit.com/eulas/00000000000000003b9b347d
+ *
+ * © 2009-2026 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2020-07-17 09:30:59 UTC"}*/
+
+@import url("https://web.archive.org/web/20260619003701cs_/https://p.typekit.net/p.css");
+
+@font-face {
+font-family:"quasimoda";
+src:url("https://web.archive.org/web/20260619003701im_/https://use.typekit.net/af/035662/00000000000000003b9b3475/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://web.archive.org/web/20260619003701im_/https://use.typekit.net/af/035662/00000000000000003b9b3475/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://web.archive.org/web/20260619003701im_/https://use.typekit.net/af/035662/00000000000000003b9b3475/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"quasimoda";
+src:url("https://web.archive.org/web/20260619003701im_/https://use.typekit.net/af/0e8801/00000000000000003b9b3476/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"),url("https://web.archive.org/web/20260619003701im_/https://use.typekit.net/af/0e8801/00000000000000003b9b3476/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"),url("https://web.archive.org/web/20260619003701im_/https://use.typekit.net/af/0e8801/00000000000000003b9b3476/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"quasimoda";
+src:url("https://web.archive.org/web/20260619003701im_/https://use.typekit.net/af/2b1f89/00000000000000003b9b347d/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3") format("woff2"),url("https://web.archive.org/web/20260619003701im_/https://use.typekit.net/af/2b1f89/00000000000000003b9b347d/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3") format("woff"),url("https://web.archive.org/web/20260619003701im_/https://use.typekit.net/af/2b1f89/00000000000000003b9b347d/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:800;font-stretch:normal;
+}
+
+.tk-quasimoda { font-family: "quasimoda",sans-serif; }
+
+
+
+
+
+
